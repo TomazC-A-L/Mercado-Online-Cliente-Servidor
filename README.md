@@ -1,2 +1,12 @@
 # Mercado Online Cliente/Servidor
- Trabalho da disciplina de redes, Usando tecnologia cliente e servidor usando protocolo TCP
+  > Este é um projeto da disciplina de Redes de Computadores 2. O 
+ ### Descrição Breve
+ O projeto consiste em criar uma aplicação que simulasse um mercado online.
+
+---
+#### *Tecnologias usadas e competências desenvolvidas:*
+* Python
+* TCP
+* Socket de Rede
+
+
